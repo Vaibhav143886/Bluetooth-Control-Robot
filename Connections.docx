@@ -1,0 +1,5 @@
+Motor Shield to HC-05 Bluettoth Module
+5V       --> Vcc
+GND      --> GND
+D7       --> TX
+D8       --> RX
